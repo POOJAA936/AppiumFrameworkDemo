@@ -8,7 +8,7 @@ import com.app.androidapp.util.MobileActionUtil;
 public class TC_001_TestScript1 extends BaseLib
 {	
 	@Test
-	public void tc_001_testOne() throws IOException, InterruptedException
+	public void tc_001_testcaseOne() throws IOException, InterruptedException
 	{
 	
 		VookLandingPage vLp= new VookLandingPage(gv.driver);
